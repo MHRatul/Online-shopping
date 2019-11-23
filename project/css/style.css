@@ -1,0 +1,138 @@
+.header_image{
+    position: absolut;
+    background-size: cover;
+    height: ;
+}
+.top_pannel{
+    position: absolut;
+    padding: 10px;
+}
+.top_pannel_text{
+    color: white;
+}
+#navigation{
+    padding: 10px;
+    top: 100px ;
+}
+#navigation li{
+    padding: 0 10px;
+}
+#navigation li a{
+    color: red;
+}
+.navbar .navbar-nav{
+    margin: 0 auto;
+}
+.section{
+    padding: 100px 100px;
+}
+.football{
+    height: 450px;
+    width: inherit;
+}
+
+.caption_text{
+    padding: 50px;
+}
+.middle_container{
+ position: absolut;
+}
+.container_text{
+    padding: 30px;
+    text-align: center;
+    position: absolut;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+}
+.caption_text{
+    padding: 50px;
+    background-color: #000000;
+    color: white;
+}
+h2{
+    margin: 25px 0 10px;
+}
+.caption_text a.bt{
+    
+}
+.btn {
+    margin: 10px;
+    background: #1f8716;
+    border: 1px solid #1f8716;
+    color: #fff;
+}
+.btn:hover{
+    background-color: #000;
+    color: #fff;
+}
+.sale_section{
+    padding: 10px;
+    background: #000000;
+}
+.sale_container{
+    padding: 30px 80px;
+}
+.squareText{
+    padding: 10px;
+    text-align: center;
+    color: #000000;
+    
+}
+.squareText:hover{
+    color: #1f8716;
+}
+.squareInnerContainer{
+    background-color: #fff;
+}
+.top_text{
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+}
+.icon_link{
+    float: left;
+}
+.a{
+    display: block;
+    background-color: #000;
+}
+.first_banner{
+    padding: 100px 50px;
+    background-image: url("../image/big_football.jpg");
+}
+.second_banner{
+    padding: 100px 50px;
+    background-image: url("../image/big_shoes.jpg");
+}
+.banner_text{
+    
+    max-width: 70%;
+    background: rgba(0,0,0,0.5);
+    padding: 30px;
+    color: #fff;
+}
+.logo_container{
+   padding: 30px 10px;
+}
+.footer{
+    
+    background-color: #000000;
+}
+.footer_container{
+    color: #fff;
+    
+}
+.footer_container .footer_text{ 
+    text-align: center;
+    
+}
+.footer_container li{
+    padding: 10px;
+    list-style: none;
+}
